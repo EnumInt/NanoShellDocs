@@ -1,0 +1,28 @@
+var struct_window_struct =
+[
+    [ "m_callback", "struct_window_struct.html#a79d746c434a42ce96b4d6263404b979b", null ],
+    [ "m_consoleToFocusKeyInputsTo", "struct_window_struct.html#af12d2a89a9b9dbd64ee6756c5fb61f64", null ],
+    [ "m_consoleToFocusKeyInputsTo", "struct_window_struct.html#a9c3efcc71befa9bd01c324f5e31ec98b", null ],
+    [ "m_controlArrayLen", "struct_window_struct.html#aa43dd89f1c50fbc901fc30358abc25bf", null ],
+    [ "m_data", "struct_window_struct.html#ae062b83d14b4126c1181062838a981db", null ],
+    [ "m_eventQueue", "struct_window_struct.html#a5889c682664c49df10863b95a2a51e4e", null ],
+    [ "m_eventQueueLock", "struct_window_struct.html#accdceece276000be3af7fa155cb9613f", null ],
+    [ "m_eventQueueParm1", "struct_window_struct.html#a324a080c7e8107e1f923e69dbc50b8d4", null ],
+    [ "m_eventQueueParm2", "struct_window_struct.html#a681b1e95be2d692b75c49008f62a4429", null ],
+    [ "m_eventQueueSize", "struct_window_struct.html#af103c3322e5b6dc97c97ebeb10bc6fbc", null ],
+    [ "m_flags", "struct_window_struct.html#acf88a9269a6bde0e77d6d64102d824ad", null ],
+    [ "m_hidden", "struct_window_struct.html#ab6c748f1b069ef486adfd9d02f062307", null ],
+    [ "m_isBeingDragged", "struct_window_struct.html#ad90285dba3c9a51508cf801c430fe77e", null ],
+    [ "m_isSelected", "struct_window_struct.html#a279d37068be6dfcbbe51bc8e1436522a", null ],
+    [ "m_markedForDeletion", "struct_window_struct.html#a7f24d600a1f54a3e7e1b8f15db25b59f", null ],
+    [ "m_pControlArray", "struct_window_struct.html#a7218d602d628d5baee7e43cfd2e1acb5", null ],
+    [ "m_pOwnerThread", "struct_window_struct.html#a5677843da4c9b6348e63e4ea0f8c4d54", null ],
+    [ "m_pOwnerThread", "struct_window_struct.html#a5139427e3352bc8faa88f5a597286eef", null ],
+    [ "m_pSubThread", "struct_window_struct.html#ae4a1511edea06c813e263fbc1a60c270", null ],
+    [ "m_pSubThread", "struct_window_struct.html#a4e063e86a7c9561d72fd9d3b6ff454ba", null ],
+    [ "m_rect", "struct_window_struct.html#ad0d5494b83c5b77b1d0d4b0ccd6a7061", null ],
+    [ "m_renderFinished", "struct_window_struct.html#a46fe1d62d7d6d39ca831394f89c19f6e", null ],
+    [ "m_title", "struct_window_struct.html#a86b125fad16d69df6315064f27604e51", null ],
+    [ "m_used", "struct_window_struct.html#a5cfd05c45f9690ed2724ead0a1f8d881", null ],
+    [ "m_vbeData", "struct_window_struct.html#a516403aff90ff667307e07c02179ee39", null ]
+];
